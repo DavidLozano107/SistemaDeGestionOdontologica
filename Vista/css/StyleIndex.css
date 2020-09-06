@@ -1,0 +1,76 @@
+.body{
+    background-color: rebeccapurple;
+}
+
+/* ================== section3 ===============================*/
+
+.miniNav{
+	margin: auto;
+	width: 1250px;
+	height: 300px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.miniNav p{
+	font-size: 23px;
+	color:black;
+	text-shadow: 1px 1px #01EBA6;
+	text-align: center;
+}
+.miniNav a{
+	margin-left: 120px;
+	font-size: 25px;
+	color:#01EBA6;
+	text-decoration: none;
+}
+#a1{
+	margin-left: 120px;
+}
+#a2{
+	margin-left: 140px;
+}
+
+.miniNav img{
+	margin: 50px;
+	margin-left: 160px;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+
+}
+.miniNav .c1{
+	width: 400px;
+	height: 300px;
+	float: left;
+
+}
+.miniNav .c2{
+	width: 400px;
+	height: 300px;
+	float: left;
+	
+}
+.miniNav .c3{
+	width: 400px;
+	height: 300px;
+	float: left;
+}
+
+.miniNav .c1:hover{
+	margin-top: -60px;
+	transition:.5s;
+}
+.miniNav .c2:hover{
+	margin-top: -60px;
+	transition:.5s;
+}
+.miniNav .c3:hover{
+	margin-top: -60px;
+	transition:.5s;
+}
+.miniNav .c4:hover{
+	margin-top: -60px;
+	transition:.5s;
+}
+

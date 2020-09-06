@@ -1,0 +1,43 @@
+.bg-light {
+    background-color:#17AAB7!important;
+	height: 80px;
+	
+}
+#Logo{
+    width: 50px;
+    height: 50px;
+}
+.w-100 {
+    width: 100%!important;
+    height: 550px;
+}
+#Title{
+    color:cornsilk;
+    font-size: 20px;
+}
+.dropdown-menu.show{
+    background-color: cornflowerblue;
+}
+.dropdown-item:hover{
+    background-color: rgb(11, 129, 184);
+}
+#itemIzqNav{
+    display: flex;
+    float: right;
+    margin-left: 750px;
+}
+
+.bg-dark{
+	background-color: #FFFFFF !important;
+
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:#17AAB7;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color:rgb(23, 136, 146);
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+   background-color:rgb(23, 136, 146);
+}

@@ -1,0 +1,30 @@
+ul.nav-pills {
+    top: 20px;
+    position: fixed;
+  }
+  body {
+    position: relative; 
+}
+#navInicio{
+    width: 900px;
+    margin-left: 380px;
+    margin-bottom: 30px;
+}
+body {
+  position: relative;
+}
+ul.nav-pills {
+  top: 20px;
+  position: fixed;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: #fff;
+  background-color:#17AAB7;
+}
+#Title
+{
+  margin-left: 300px;
+}
+.box{
+  height: 500px;
+}

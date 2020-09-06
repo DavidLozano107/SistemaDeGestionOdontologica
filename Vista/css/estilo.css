@@ -1,0 +1,84 @@
+#contenedor{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    background-color:#FFFFFF;
+    border: #d3d3d3 1px solid;
+    text-align: justify;
+    margin: 10px auto;
+    width: 900px;
+}
+
+
+img{
+    width: 900px;
+    height: 200px;
+}
+#encabezado{
+    width: 900px;
+    height: 200px;
+    border: #d3d3d3 1px solid;
+    /* background-image: url(../img/Banner.png);
+    background-image: no-repeat; */
+}
+
+h1{
+    width: 50%;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 20px;
+    color: #fff;
+}
+
+div #contenido{
+    border: #d3d3d3 1px solid;
+    margin: 20px 20px 10px 145px;
+    padding: 10px 15px;
+}
+
+h2{
+    color: #0075FF;
+    border-bottom: #CFDFB5 1px solid;
+}
+
+#menu{
+    float: left;
+    width: 120px;
+    margin: 20px 10px;
+    padding: 0;
+    list-style:none;
+}
+
+#menu li{
+    border: #fff 1px solid;
+    background-color: rgba(86, 156, 247, 0.733);
+    margin-bottom:5px;
+    font-size: 0.9em;
+    text-align: center;
+    line-height: 30px;
+}
+
+#menu li:hover{
+    background-color: rgba(19, 120, 252, 0.733);
+}
+
+#menu li.activa, #menu li:hover{
+    background-color: rgb(33, 216, 233);
+}
+
+#menu a{
+    display: block;
+    text-decoration: none;
+    color:#000000;
+}
+
+.center{
+    text-align: center;
+}
+.Exito{
+    background-color: #7ce481;
+    color: #000000;
+}
+.Error{
+    background-color: #e47f7c;
+    color: #000000;
+}
